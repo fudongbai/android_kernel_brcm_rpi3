@@ -745,6 +745,7 @@ static int __mark_rodata_ro(void *unused)
 	return 0;
 }
 
+
 static int kernel_set_to_readonly __read_mostly;
 
 void mark_rodata_ro(void)
