@@ -20,6 +20,7 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	audioinjector-addons.dtbo \
 	audioinjector-ultra.dtbo \
 	audioinjector-wm8731-audio.dtbo \
+	audiosense-pi.dtbo \
 	audremap.dtbo \
 	balena-fin.dtbo \
 	bmp085_i2c-sensor.dtbo \
@@ -78,6 +79,7 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	mcp2515-can1.dtbo \
 	mcp3008.dtbo \
 	mcp3202.dtbo \
+	mcp342x.dtbo \
 	media-center.dtbo \
 	midi-uart0.dtbo \
 	midi-uart1.dtbo \
@@ -134,6 +136,7 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	spi2-1cs.dtbo \
 	spi2-2cs.dtbo \
 	spi2-3cs.dtbo \
+	ssd1306.dtbo \
 	superaudioboard.dtbo \
 	sx150x.dtbo \
 	tc358743.dtbo \
