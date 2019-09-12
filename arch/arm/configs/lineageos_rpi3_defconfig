@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm 4.14.135 Kernel Configuration
+# Linux/arm 4.14.143 Kernel Configuration
 #
 CONFIG_ARM=y
 CONFIG_ARM_HAS_SG_CHAIN=y
@@ -3921,8 +3921,6 @@ CONFIG_ION=y
 # CONFIG_ION_CARVEOUT_HEAP is not set
 # CONFIG_ION_CHUNK_HEAP is not set
 # CONFIG_ION_CMA_HEAP is not set
-# CONFIG_FIQ_DEBUGGER is not set
-# CONFIG_FIQ_WATCHDOG is not set
 # CONFIG_STAGING_BOARD is not set
 # CONFIG_LTE_GDM724X is not set
 # CONFIG_LNET is not set
